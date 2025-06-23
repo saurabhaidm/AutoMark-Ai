@@ -19,7 +19,7 @@ const Imagesection = () => {
         <div className="rounded-3xl shadow-sm overflow-hidden relative min-w-[280px] md:w-auto h-[420px] flex-shrink-0">
           <div className="w-full h-full">
             <img
-              src="/public/first.png"
+              src="/first.png"
               alt="Graph"
               className="w-full h-full object-cover"
             />
@@ -35,7 +35,7 @@ const Imagesection = () => {
         <div className="relative rounded-3xl shadow-xl overflow-hidden h-[420px] min-w-[280px] md:w-[313px] flex-shrink-0">
           <div className="absolute inset-0 z-0">
             <img
-              src="/public/second.png"
+              src="/second.png"
               alt="AI Cube"
               className="w-full h-full object-cover"
             />
@@ -60,7 +60,7 @@ const Imagesection = () => {
           {/* Image */}
           <div className="w-full md:w-[60%] h-[180px] md:h-auto">
             <img
-              src="/public/Third_.png"
+              src="/Third_.png"
               alt="Video thumbnail"
               className="w-full h-full object-cover"
             />

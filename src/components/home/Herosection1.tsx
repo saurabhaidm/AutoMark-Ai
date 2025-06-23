@@ -1,8 +1,7 @@
 
 
-type Props = {}
 
-function Herosection1({}: Props) {
+function Herosection1() {
   return (
     <div>Herosection1</div>
   )
